@@ -5,12 +5,5 @@
     "expiryDate": 4102444800000,
     "isActive": true,
     "role": "admin"
-  },
-  {
-    "username": "Tt",
-    "password": "tt",
-    "expiryDate": 1753522242251,
-    "isActive": true,
-    "role": "admin"
   }
 ]
