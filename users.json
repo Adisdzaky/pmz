@@ -17,7 +17,7 @@
     "username": "Tes",
     "password": "tes",
     "expiryDate": 1751006632691,
-    "isActive": true,
+    "isActive": false,
     "role": "user"
   }
 ]
