@@ -5,5 +5,12 @@
     "expiryDate": 4102444800000,
     "isActive": true,
     "role": "admin"
+  },
+  {
+    "username": "R",
+    "password": "r",
+    "expiryDate": 1753506953841,
+    "isActive": true,
+    "role": "user"
   }
 ]
