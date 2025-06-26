@@ -1,0 +1,9 @@
+[
+  {
+    "username": "admin",
+    "password": "admin",
+    "expiryDate": 4102444800000, // 31 Desember 2100
+    "isActive": true,
+    "role": "admin"
+  }
+]
