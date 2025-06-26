@@ -12,5 +12,12 @@
     "expiryDate": 1753506953841,
     "isActive": false,
     "role": "user"
+  },
+  {
+    "username": "Tes",
+    "password": "tes",
+    "expiryDate": 1751006632691,
+    "isActive": true,
+    "role": "user"
   }
 ]
