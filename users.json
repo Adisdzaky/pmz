@@ -10,7 +10,7 @@
     "username": "T",
     "password": "t",
     "expiryDate": 1753533044363,
-    "isActive": true,
+    "isActive": false,
     "role": "user"
   }
 ]
