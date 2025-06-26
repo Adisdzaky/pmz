@@ -10,7 +10,7 @@
     "username": "R",
     "password": "r",
     "expiryDate": 1753506953841,
-    "isActive": false,
+    "isActive": true,
     "role": "user"
   },
   {
